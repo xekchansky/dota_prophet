@@ -7,4 +7,4 @@
 
 ## схема:
 
-![dota_project drawio](https://github.com/xekchansky/dota_prophet/assets/34571369/0c3e2223-6651-4c84-9661-8101c4a4a191)
+![dota_project drawio](https://github.com/xekchansky/dota_prophet/assets/34571369/6e5615b0-c3cf-4f62-812d-9b7154de348f)

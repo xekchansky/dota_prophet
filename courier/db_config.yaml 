@@ -1,0 +1,8 @@
+---
+#Имя БД
+DB_NAME: throne
+###Пользователь БД
+DB_USER: pg-admin
+###Адрес серверва БД
+HOST: rc1b-addh75h69decf28n.mdb.yandexcloud.net
+PORT: 6432
